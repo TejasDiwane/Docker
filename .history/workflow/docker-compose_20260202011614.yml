@@ -1,0 +1,9 @@
+version: '1.0'
+
+services:
+  postgres:
+    image: postgres
+    ports:
+      - 5432:6432
+    environment:
+      - POSTGRES_PASSWORD=mysecretpassword  

@@ -1,28 +1,15 @@
 {
-<<<<<<< HEAD
-  "name": "docker_part1",
-=======
   "name": "mini-project",
->>>>>>> 95a3705 (still working)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "start": "tsx src/index.ts",
     "dev": "tsx watch src/index.ts"
->>>>>>> 95a3705 (still working)
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^5.2.1"
-=======
   "type": "module",
   "devDependencies": {
     "@types/express": "^5.0.6",
@@ -38,6 +25,5 @@
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "pg": "^8.17.2"
->>>>>>> 95a3705 (still working)
   }
 }
